@@ -19,7 +19,7 @@ You will utilize GitOps to deploy the following components to an OpenShift Clust
 Before starting this lab, ensure you have the following environments set up:
 
 - Instana Server
-- OpenShift 4.8 Cluster
+- OpenShift 4.13 Cluster
 
 Additionally, you need to have the following installed locally:
 
