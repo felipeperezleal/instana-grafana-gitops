@@ -28,9 +28,3 @@ Additionally, you need to have the following installed locally:
 - OC CLI version 4.7 or higher
 
 ## Getting Started
-
-1. **Fork this repository** to your GitHub account.
-2. **Clone your forked repository** to your local machine.
-3. Follow the instructions in the lab to deploy the components using GitOps.
-
-## 1. Bootstrap the cluster
