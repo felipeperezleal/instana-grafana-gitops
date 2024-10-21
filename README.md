@@ -33,6 +33,8 @@ a. Navigate to your Openshift cluster's web console created in the Prerequisites
 
 b. Click the user dropdown and click on Copy login command
 
+![image](https://github.com/user-attachments/assets/38dffb86-fe8b-420a-84e6-4b96cba6bad8)
+
 c. Click Display Token
 
 d. Copy the oc login command. It should look something like this:
